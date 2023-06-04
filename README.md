@@ -1,5 +1,13 @@
 # memo about my Arch Linux
 ## /etc
+### /etc/pacman.conf
+```
+[options]
+...
+Color
+ILoveCandy
+...
+```
 ### /etc/environment
 ```
 #input method module setting
